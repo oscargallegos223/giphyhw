@@ -1,0 +1,32 @@
+button {
+
+    padding: 10px;
+    margin: 5px;
+    border-color: rgb(145, 170, 182);
+    background-color: rgb(50, 122, 128);
+    color: white;
+    
+}
+
+input{
+
+    padding : 10px;
+    margin: 5px;
+    border-color: rgb(145, 170, 182);
+    background-color: rgb(50, 122, 128);
+    color: white;
+
+
+}
+
+body {
+
+    background-color: rgb(195, 205, 209);
+}
+
+#searchInput{
+
+   color: black;
+   background-color: white;
+   border-color: gray;
+}
